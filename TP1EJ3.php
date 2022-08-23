@@ -1,6 +1,6 @@
 <?php
 
-$a = 33;
+$a = 34;
 
 $operacion = !(($a > 10) && ($a < 20));
 var_dump($operacion);
